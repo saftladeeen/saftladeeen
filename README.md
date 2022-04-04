@@ -1,4 +1,4 @@
-Connaisseur des schlechten codes </>
+Connaisseur des schlechten codes
 
 <!---
 saftladeeen/saftladeeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
